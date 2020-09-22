@@ -8,5 +8,5 @@ email:
   account: 410882981@qq.com
   oauthCode: lxvoduzwzzxlbibc
 gateway: 
-  duration: 5
+  duration: 60
   limit: 3

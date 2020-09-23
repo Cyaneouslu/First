@@ -9,4 +9,4 @@ email:
   oauthCode: lxvoduzwzzxlbibc
 gateway: 
   duration: 60
-  limit: 3
+  limit: 1
